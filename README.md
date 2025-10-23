@@ -1,5 +1,7 @@
 # 🔧 Panel de Administración de Servicios de Windows vía PHP + PowerShell
 
+![Preview](https://github.com/Azzlaer/PHP_Listado_Servicios/blob/main/Screenshot_1.png)
+
 Este proyecto permite listar, iniciar y detener servicios de Windows desde una interfaz web desarrollada en PHP. Ideal para servidores que requieren control remoto de servicios específicos, como en un entorno Windows Server.
 
 > 🖥️ Compatible con **Windows Server 2012 o superior** con PowerShell habilitado.
@@ -22,7 +24,6 @@ Este proyecto permite listar, iniciar y detener servicios de Windows desde una i
 ├── index.php
 ├── config.ini
 ├── README.md
-
 
 ---
 
